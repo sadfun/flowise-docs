@@ -17,4 +17,4 @@ We love contributions! Feel free to submit Pull Request and we will review. Reac
 
 ## 📄 License
 
-Source code in this repository is made available under the [Apache License Version 2.0](LICENSE.md).
+Source code in this repository is made available under the [Apache License Version 2.0](LICENSE).
