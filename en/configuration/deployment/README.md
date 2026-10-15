@@ -21,6 +21,7 @@ This reduces the technical expertise needed, but may limit the level of customiz
 * [Elestio](https://elest.io/open-source/flowiseai)
 * [Hugging Face](hugging-face.md)
 * [Northflank](https://northflank.com/stacks/deploy-flowiseai)
+* [Pethost](https://pethost.dev/templates/flowise/)
 * [Railway](railway.md)
 * [Render](render.md)
 * [Replit](replit.md)

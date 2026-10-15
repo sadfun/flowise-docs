@@ -81,6 +81,7 @@
     * [Hugging Face](configuracion/deployment/hugging-face.md)
     * [Kubernetes using Helm](https://artifacthub.io/packages/helm/cowboysysop/flowise)
     * [Northflank](https://northflank.com/stacks/deploy-flowiseai)
+    * [Pethost](https://pethost.dev/templates/flowise/)
     * [Railway](configuracion/deployment/railway.md)
     * [Render](configuracion/deployment/render.md)
     * [Replit](configuracion/deployment/replit.md)
